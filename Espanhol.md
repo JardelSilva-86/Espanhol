@@ -707,8 +707,18 @@ En la Gran Vía está el cine Avenida.
 Me parece que cerca del mercado está la estación de metro.
 En mi barrio hay una tienda de ropa muy famosa. 
 
+2 - Completa:
+?Dónde está el banco más cercano?
+Está um poco lejos, a unos 2 km
 
+Perdone, ?Hay una farmacia en esta calle?
+Hay una al fondo de la calle, si, enfrente al teatro. 
 
+?Dónde hay una oficina de correos cerca, por favor?
+Hay una aquí al lado, en la calle Diego Rivera.
+
+?El cine Avenida está en la calle Joan Miró?
+No, no, está en la calle Goya.
 
 # Livro Juan - Espanhol em 12 dias
 
