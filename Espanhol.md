@@ -720,6 +720,36 @@ Hay una aquí al lado, en la calle Diego Rivera.
 ?El cine Avenida está en la calle Joan Miró?
 No, no, está en la calle Goya.
 
+- Hay / Está(n)
+Hay(Haber) se utiliza para indicar la existencia de algo o alguien.
+Se usa con UN, UNO, UNA, UNOS, UNAS y NÚMEROS
+Ej.: En el centro hay(unas) tiendas muy bonitas.
+
+Está(n) se emplea para situar en el espacio algo o alguien.
+Se usa con ARTÍCULOS DETERMINADOS y ADJETIVOS POSESIVOS
+Ej.: ?Sabes dónde está mi móvil?
+Creo que está en la mesa del comedor
+
+Ejercicios
+
+3 - Relaciona
+En la calle Preciados hay una farmacia de guardia.
+Cerca de aquí hay un banco.
+A menos de diez minutos hay unos grandes almacenes.
+El dormitorio está al fondo del pasillo.
+?Qué hay en esta calle? 
+?Dónde hay un garaje, por favor?
+En la cocina hay un armario para los platos.
+Enfrente de la cafeteria están las tiendas de discos.
+
+- Dialogo
+Fernando: ?Vienes esta tarde al Museo de Arte Moderno? Hay una exposición de una amiga mía.
+Pilas: Sí, de acuerdo, pero ?cómo voy, en metro o en autobús?
+Fernando: Mejor en autobús, Tomas el 21 y te bajas en la cuarta parada, en la calle Carlos Fuentes, cruzas la Plaza de la República y enfrente de la biblioteca está el museo.
+Pilar: !Qué lío! ?Qué calle es?
+Fernando: No es ningún lío. Es muy fácil. Está en la calle Acapulco, número veinticinco.
+
+
 # Livro Juan - Espanhol em 12 dias
 
 ## Dia 1 - Saudações e Expressões básicas
