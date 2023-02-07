@@ -749,6 +749,21 @@ Fernando: Mejor en autobús, Tomas el 21 y te bajas en la cuarta parada, en la c
 Pilar: !Qué lío! ?Qué calle es?
 Fernando: No es ningún lío. Es muy fácil. Está en la calle Acapulco, número veinticinco.
 
+- Pedir y dar explicaciones para llegar a un sitio:
+?Cómo voy al museo?
+Caminando / andando / a pie / en autobús / en metro / en taxi / en coche**carro**
+
+- Algunos verbos usados para dar explicaciones sobre direccion son:
+Ir: Vas por la Gran Vía
+Seguir: Sigues todo recto por esta avenida.
+Girar: Giras a la derecha en la primera calle.
+Tomar: Tomas la derecha en la primera calle.
+Coger**Pegar**: Coges el 21(autobús).
+Tomar: Tomas el 21.
+Subir: Subes al 21.
+Bajar: Bajas en la tercera parada.
+Cruzar: Cruzas la calle. 
+
 
 # Livro Juan - Espanhol em 12 dias
 
