@@ -154,6 +154,8 @@ Comisaría - Departamento Polícia/Delegacia de Polícia
 Teatro
 
 ### Conjugaciones
+
+#### Verbos Regulares
                             Trabajar        Comer       Vivir       Estar       
 Yo                          Trabajo         Como        Vivo        Estoy
 Tú                          Trabajas        Comes       Vives       Estás
@@ -170,13 +172,59 @@ Nos llamamos -> Nosostros/as
 Os llamáis -> Vosotros/as
 Se llaman -> Ellos/Ellas/Uds.
 
-- Verbo Ser - Irregular
+#### Verbos Irregulares
+- Verbo Ser
 Soy
 Eres
 Es
 Somos
 Sois
 Son
+
+- Verbo Ir
+Voy
+Vas
+Va
+vamos
+Vais
+Van
+
+- Verbo Venir
+Vengo
+Vienes
+Viene
+Venimos
+Venís
+Vienen
+
+- Verbo Seguir
+Sigo
+Sigues
+Sigue
+Seguimos
+Seguís
+Siguen
+
+- Verbo Cerrar
+Cierro
+Cierras
+Cierra
+Cerramos
+Carráis
+Cierran
+
+- Verbo Dar
+Doy
+Das
+Da
+Damos
+Daís
+Dan
+
+
+
+
+
 
 - Ejercicios
 
