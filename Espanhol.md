@@ -911,6 +911,31 @@ Ej.
 El lunes voy a trabajar.
 Los sábados juego al fútbol.
 
+- La tilde
+Dónde poner la tilde
+1 - última sílaba tónica en palabras acabadas en VOCAL, -N, -S
+Ej: Está, estás, corazón.
+
+2 - penúltima sílaba tónica en palabras acabadas en consonante, excepto -N, -S
+Ej: lápiz, ángel, fútbol
+
+3 - Todas las palabras con la antepenúltima sílaba tónica.
+Ej: última, sílaba, tónica.
+
+- Clasifica las palabras en la categoria correspondiente.
+Con tilde       Penúltima sílaba tónica     Última sílaba tónica
+inglés          despacho                    ordenador
+fútbol          calle                       ciudad
+detrás          lejos                        
+                delante                     
+                Avenida
+                Taxi
+                Playa  
+
+- Escucha las palabras y escribe la tilde en las palabras que la necessitem
+Lápiz       Ángel       Habitación      Están       Bogotá
+Víctor      Gómez       Café            Aquí        Seul
+
 
 # Livro Juan - Espanhol em 12 dias
 
