@@ -877,6 +877,40 @@ Subir: Subes al 21.
 Bajar: Bajas en la tercera parada.
 Cruzar: Cruzas la calle. 
 
+- La hora
+Pregunta y decir la hora
+?Qué hora es?
+Son las dos de la tarde
+Es la una
+
+Preguntar el horario
+?A qué hora empieza la clase?
+A las ocho de la mañana.
+
+11:00 - Son las once en punto.
+11:05 - Son las once y cinco
+11:15 - Son las once y cuarto
+11:30 - Son las once y media
+11:35 - Son las doce menos veintecinco
+11:45 - Son las doce menos cuarto
+11:55 - Son las doce menos cinco
+13:00 - Es la una
+14:00 - Son las dos
+
+- Los días de la semana
+Lunes**Segunda-feira**
+Martes**Terça-feira**
+Miércoles**Quarta-feira**
+Jueves**Quinta-feira**
+Viernes**sexta-feira**
+Sábado
+Domingo
+
+Todos los días da semana son masculinos, siempre se utiliza EL y LOS
+Ej. 
+El lunes voy a trabajar.
+Los sábados juego al fútbol.
+
 
 # Livro Juan - Espanhol em 12 dias
 
