@@ -632,6 +632,40 @@ Librería
 Estación de Bomberos
 Oficina de correos
 Iglesia
+Teatro
+Circo
+Cine
+Florista
+Hospital
+Farmacia
+Museo
+Peluquería
+Centro Comercial
+Parada de autobús
+Ayuntamiento**Prefeitura da cidade**
+Banco
+Embajada
+Hotel
+Comisaría**Delegacia**
+Bar
+Universidad
+Quiosco de prensa**banca de jornais**
+Calle
+Avenida
+Cruce**Cruzamento**
+Esquina
+Acera**calçada**
+Paso de peatones**Faixa de pedestre**
+Semáforo
+Puente
+Fuente
+Viaducto
+Estanque**Lago**
+Río
+Mar
+Playa
+Plaza
+
 
 - Ejercicio
 ?Cuántos dormitorios tiene tu casa?
