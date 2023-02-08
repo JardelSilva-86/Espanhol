@@ -225,6 +225,8 @@ Dan
 Es importante que nos acordemos si tratamos la persona con la cual hablamos por TÚ o USTED, pues esto cambia la conjugación. El dialogo ha presentado la explicación con TÚ:
 Tomas el 21 y te bajas en la cuarta parada, en la calle Carlos Fuentes, Cruzas la Plaza de la República y enfrente de la biblioteca está el museo. 
 
+Ahora usando USTED:
+Toma el 21 y te baja en la cuarta parada, en la calle Carlos Fuentes, cruza la Plaza de la República y enfrente e la biblioteca está el museo
 
 
 - Ejercicios
@@ -239,6 +241,18 @@ coma - ","
 punto - "."
 Signos de interrogación - ¿?
 Signos de exclamación - ¡!
+
+1 - Conjuga los verbos
+Para ir al cine TOMAS el 1 en la Calle Princesa y BAJAS en la quinta parada.
+Perdone, ?hay una estación de metro cerca?
+SIGUE todo recto, la estación de metro ESTÁ a unos qoo metros.
+?VENÍS a mi casa hoy?
+Las tiendas del centro CIERRAN tarde.
+Mis amigos y yo VAMOS al parque mañana.
+!Qué pelo tan bonito!
+Claro, VENGO de la peluqueria.
+
+
 
 ### Presentaciones
 
@@ -602,6 +616,22 @@ El Teléfono
 La Mesa de centro****
 La Consola**Vídeo game**
 El Aire acondicionado
+Lavandería
+Frutería
+Supermercado
+Restaurante
+Panadería
+Pescadería
+Veterinario
+Gasolinera
+Escuela
+Cafetería
+Carnicería
+Tienda
+Librería
+Estación de Bomberos
+Oficina de correos
+Iglesia
 
 - Ejercicio
 ?Cuántos dormitorios tiene tu casa?
