@@ -205,7 +205,7 @@ Seguimos
 Seguís
 Siguen
 
-- Verbo Cerrar
+- Verbo Cerrar**Fechar/encerrar/trancar**
 Cierro
 Cierras
 Cierra
@@ -221,8 +221,9 @@ Damos
 Daís
 Dan
 
-
-
+- !Fíjate!
+Es importante que nos acordemos si tratamos la persona con la cual hablamos por TÚ o USTED, pues esto cambia la conjugación. El dialogo ha presentado la explicación con TÚ:
+Tomas el 21 y te bajas en la cuarta parada, en la calle Carlos Fuentes, Cruzas la Plaza de la República y enfrente de la biblioteca está el museo. 
 
 
 
