@@ -992,25 +992,25 @@ Voz -> Voces **Vozes**
 - Números Cardinais
 Os números cardinais são semalhantes ao português, porém após o 20 e até o 29 escrevem-se como uma palavra só.
 
-0 - cero            19 - diecinueve 
-1 - uno             20 - veinte
-2 - dos             21 - veinteuno
-3 - tres            22 - veintedós
-4 - cuatro          23 - veintetrés  
-5 - cinco           24 - veintecuatro
-6 - seis            25 - veintecinco
-7 - siete           26 - veinteséis
-8 - ocho            27 - veintesiete
-9 - nueve           28 - veinteocho
-10 - diez           30 - treinta
-11 - once           40 - cuarenta
-12 - doce           50 - cincuenta
-13 - trece          60 - sesenta
-14 - catorce        70 - setenta
-15 - quince         80 - ochenta
-16 - dieceséis      90 - noventa
-17 - diecesiete     100 - cien
-18 - dieceocho      1000 - mil
+0 - cero            19 - diecinueve     101 -  ciento uno
+1 - uno             20 - veinte         200 - doscientos/as
+2 - dos             21 - veintiuno      300 - trescientos/as
+3 - tres            22 - veintidós      400 - cuatrocientos/as
+4 - cuatro          23 - veintitrés     500 - quinientos/as
+5 - cinco           24 - veinticuatro   600 - seiscientos/as
+6 - seis            25 - veinticinco    700 - sietecientos/as
+7 - siete           26 - veintiséis     800 - ochocientos/as
+8 - ocho            27 - veintesiete    900 - novecientos/as
+9 - nueve           28 - veintiocho     1352 - mil trescientos cincuenta y dos
+10 - diez           30 - treinta        2813 - dos mil ochocientos trece
+11 - once           40 - cuarenta       1995 - mil novecientos noventa y cinco
+12 - doce           50 - cincuenta      9953 - nueve mil novecientos cincuenta y tres
+13 - trece          60 - sesenta        1984 - mil novecientos ochenta y cuatro
+14 - catorce        70 - setenta        8556 - ocho mil quinientos cincuenta y seis
+15 - quince         80 - ochenta        1227 - mil doscientos veintisiete
+16 - dieceséis      90 - noventa        347 - trescientos cuarenta y siete
+17 - diecesiete     100 - cien          2890 - dos mil ochocientos noventa
+18 - dieceocho      1000 - mil          5670 - cinco mil seiscientos setenta
 
 
 - Plural
