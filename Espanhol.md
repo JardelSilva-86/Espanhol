@@ -11,55 +11,55 @@ Cómo se llama Usted?  - Formal
 Cómo os llamáis?(Vosotros) - Informal  
 Cómo se llaman?(Ustedes) - Formal  
 
-Yo soy Jardel. 
-Me llamo Silvia. 
-Mi nombre es Jardel. 
+Yo soy Jardel.   
+Me llamo Silvia.   
+Mi nombre es Jardel.   
 
-- Origen / nacionalidad
-De dónde eres? 
-Soy... 
-Soy de...
+- Origen / nacionalidad  
+De dónde eres?   
+Soy...   
+Soy de...  
 
-- El lugar de residencia
-Dónde vives?
-Vivo en...
+- El lugar de residencia  
+Dónde vives?  
+Vivo en...  
 
-- Presentar a amigos/as. 
-Te presento a...
-Este/a es...
-Estos/as son..
+- Presentar a amigos/as.   
+Te presento a...  
+Este/a es...  
+Estos/as son..  
 
-- Saludos
-Hola! 
-Buenas!
-Buenos días! / Buen día! - 
-Buenas tarde! / Buena tarde! 
-Buenas noches! 
+- Saludos  
+Hola!   
+Buenas!  
+Buenos días! / Buen día!   
+Buenas tarde! / Buena tarde!   
+Buenas noches!   
 
-Qué tal? 
-Cómo estás?(Tú) - Informal
-Cómo está?(Usted) - Formal
-Cómo te va? 
-Cómo estáis?(Vosotros) - Informal
-Cómo están?(Ustedes) - Formal
+Qué tal?   
+Cómo estás?(Tú) - Informal  
+Cómo está?(Usted) - Formal  
+Cómo te va?   
+Cómo estáis?(Vosotros) - Informal  
+Cómo están?(Ustedes) - Formal  
 
-Fatal - **péssimo / horrível**
-Mal
-Bien
-Muy bien 
+Fatal - **péssimo / horrível**  
+Mal  
+Bien  
+Muy bien   
 
-Y tú?
+Y tú?  
 
-Mucho gusto em conocerte
-Mucho gusto
-Encantado/a
+Mucho gusto em conocerte  
+Mucho gusto  
+Encantado/a  
 
-Hasta luego
-Hasta la vista
-Hasta pronto - **algo mais distante/incerto**
-Nos vemos
-Adiós
-Hasta siempre - **Adeus pra sempre**
+Hasta luego  
+Hasta la vista  
+Hasta pronto - **algo mais distante/incerto**  
+Nos vemos  
+Adiós  
+Hasta siempre - **Adeus pra sempre**  
 
 - Paises, capitales y Nacionalidades
 México - Ciudad de México - Mexicano/a
