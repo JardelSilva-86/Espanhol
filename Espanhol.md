@@ -936,6 +936,21 @@ detrás          lejos
 Lápiz       Ángel       Habitación      Están       Bogotá
 Víctor      Gómez       Café            Aquí        Seul
 
+### En el restaurant
+
+David: !Camarero! ! Por favor!
+Camarero: Sí, un momento. ?Qué van a tomar?
+David: Yo quiero un refresco**refrigerante**. ?Tú qué tomas, Daniel?
+Daniel: Yo quiero una tônica.
+Camarero: Muy bien. ? Quieren alguna tapa**pão con quiejo-entrada**?
+David: Pues sí, Nos pone unas patatas y una de pisto**molho español**, por favor.
+Daniel: Y una ración**porção** de jámon ibérico**joelho/pata de porco**.
+Camarero: Muy bien
+[..]
+Camarero: Aquí tienen.
+Daniel: Gracias. ?Cúanto es?
+Camarero: Son dieciocho euros con cincuenta.
+
 
 # Livro Juan - Espanhol em 12 dias
 
