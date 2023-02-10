@@ -4,12 +4,12 @@
 
 ### Hola!
 
-- Preguntar el nombre e decir el suyo
-Cuál es tu nombre? 
-Cómo te llamas?(Tú)  - Informal
-Cómo se llama Usted?  - Formal
-Cómo os llamáis?(Vosotros) - Informal
-Cómo se llaman?(Ustedes) - Formal
+- Preguntar el nombre e decir el suyo  
+Cuál es tu nombre?  
+Cómo te llamas?(Tú)  - Informal  
+Cómo se llama Usted?  - Formal  
+Cómo os llamáis?(Vosotros) - Informal  
+Cómo se llaman?(Ustedes) - Formal  
 
 Yo soy Jardel. 
 Me llamo Silvia. 
