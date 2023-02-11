@@ -963,11 +963,11 @@ Camarero: Son dieciocho euros con cincuenta.
 
 - Ejercicios  
 Cliente: Buenos días  
-Camarero: Hola, buenos días. ?Qúe le pongo? **Formal - O que eu te trago? / Informal - ?Qué te pongo?**  
-Cliente: Quería um mosto **bebida de uva**.  
+Camarero: Hola, buenos días. ?Qúe le pongo? **-Formal - O que eu te trago? / Informal - ?Qué te pongo?-**  
+Cliente: Quería um mosto **-bebida de uva-**.  
 Camarero: Muy bien. Y algo de comer?  
 Cliente: Sí, ?qué tienen?  
-Camarero: Pues de tapas tenemos pisto, patatas bravas **batatas com pimentas**, queso, boquerones, tortillas de patatas.  
+Camarero: Pues de tapas tenemos pisto, patatas bravas**-batatas com pimentas-**, queso, boquerones, tortillas de patatas.  
           Y luego están las raciones, claro.  
 Cliente: Ya, me pone un tapa de tortilla, por favor.  
 Camarero: Enseguida.  
