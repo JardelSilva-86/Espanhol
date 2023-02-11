@@ -940,11 +940,11 @@ Víctor      Gómez       Café            Aquí        Seul
 
 David: !Camarero! ! Por favor!
 Camarero: Sí, un momento. ?Qué van a tomar?
-David: Yo quiero un refresco**refrigerante**. ?Tú qué tomas, Daniel?
+David: Yo quiero un refresco **refrigerante**. ?Tú qué tomas, Daniel?
 Daniel: Yo quiero una tônica.
-Camarero: Muy bien. ? Quieren alguna tapa**pão con quiejo-entrada**?
+Camarero: Muy bien. ? Quieren alguna tapa **pão con quiejo-entrada**?
 David: Pues sí, Nos pone unas patatas y una de pisto**molho español**, por favor.
-Daniel: Y una ración**porção** de jámon ibérico**joelho/pata de porco**.
+Daniel: Y una ración **porção** de jámon ibérico **joelho/pata de porco**.
 Camarero: Muy bien
 [..]
 Camarero: Aquí tienen.
@@ -963,16 +963,25 @@ Camarero: Son dieciocho euros con cincuenta.
 
 - Ejercicios  
 Cliente: Buenos días  
-Camarero: Hola, buenos días. ?Qúe le pongo?**Formal - O que eu te trago? / Informal - ?Qué te pongo?**  
-Cliente: Quería um mosto**bebida de uva**.  
+Camarero: Hola, buenos días. ?Qúe le pongo? **Formal - O que eu te trago? / Informal - ?Qué te pongo?**  
+Cliente: Quería um mosto **bebida de uva**.  
 Camarero: Muy bien. Y algo de comer?  
 Cliente: Sí, ?qué tienen?  
-Camarero: Pues de tapas tenemos pisto, patatas bravas**batatas com pimentas**, queso, boquerones, tortillas de patatas.  
+Camarero: Pues de tapas tenemos pisto, patatas bravas **batatas com pimentas**, queso, boquerones, tortillas de patatas.  
           Y luego están las raciones, claro.  
 Cliente: Ya, me pone un tapa de tortilla, por favor.  
 Camarero: Enseguida.  
 Cliente: Cúanto es?  
 Camarero: Son dos euros con ochenta.  
+
+Camarero: Aquí tiene la carta.  
+Sandra: Gracias, A ver... ?qué te apetece comer, Mónica?
+Mónica: Yo quiero una ensalada mixta de primer plato y bacalao a la bilbaína de segundo.  
+        ?Y tú, qué vas a comer?  
+Sandra: No sé, no tengo mucha hambre... un gazpacho**** y unos calamares.  
+Mónica: ?No quieres picar nada antes?  
+Carmen: Bueno, un poco de queso para picar las dos.  
+Camarero: Muy bien. Y para beber, ?qué van a tomar?  
 
 
 
