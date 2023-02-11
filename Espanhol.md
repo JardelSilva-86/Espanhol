@@ -996,25 +996,39 @@ Camamrero: Muy bien.
 5. ?Cúantas personas son?   (4) Un poco de jámon y un poco de queso.  
 
 - Comidas  
-Queso **-Queijo-**  
-Truchas **-Trutas-**  
-Los Huevos **-Ovos-**  
-Naranjas **-Laranjas-**  
-Pollo **-Frango-**  
-Jamón **-Presunto-**  
-Plátanos/Bananas **-Banana-**  
-Tomates **-Tomates-**  
-Las Fresas **-Morangos-**  
-La Leche **-Leite-**  
-Las Uvas **-Uvas-**  
-Cordero **-Cordeiro-**  
-Lechuga **-Alface-**  
-Espinacas **-Espinafres-**  
-Sardinas **-Sardinhas-**  
-Ternera **-Carne boi novo-**  
-Yogures **-Iogurtes-**  
-Manzanas **-Maças-**  
+Queso **-Queijo-** Lácteos y derivados    
+Truchas **-Trutas-**  Pescados  
+Los Huevos **-Ovos-**    
+Naranjas **-Laranjas-**  Frutas y verduras  
+Pollo **-Frango-**  Carnes  
+Jamón **-Presunto-**  Carnes  
+Plátanos/Bananas **-Banana-** Frutas y verduras  
+Tomates **-Tomates-**  Frutas y verduras  
+Las Fresas **-Morangos-**  Frutas y verduras  
+La Leche **-Leite-**  Lácteos y derivados  
+Las Uvas **-Uvas-**  Frutas y verduras  
+Cordero **-Cordeiro-**  Carnes  
+Lechuga **-Alface-**  Frutas y verduras
+Espinacas **-Espinafres-**  Frutas y verduras
+Sardinas **-Sardinhas-**  Pescados  
+Ternera **-Carne boi novo-**  Carnes  
+Yogures **-Iogurtes-**  Postres  
+Manzanas **-Maças-**  Frutas y verduras  
 
+- Objetos basico que utilizamos para comer  
+Jarra **-Jarra-**  
+Vaso **-Copo-**  
+Servilleta **-Guardanapo-**  
+Cuchara **-Colher-**  
+Tenedor **-Garfo-**  
+Plato **-Prato-**  
+Cuchillo **-Faca-**  
+
+Tomamos la sopa con una cuchara.  
+Para beber usamos un vaso.  
+La sopa se toma en un plato.  
+Para comer carne usamos tenedor.  
+Nos limpiamos la boca con una servilleta.  
 
 
 # Livro Juan - Espanhol em 12 dias
