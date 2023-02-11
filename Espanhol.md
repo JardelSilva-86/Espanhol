@@ -949,7 +949,36 @@ Camarero: Muy bien
 [..]
 Camarero: Aquí tienen.
 Daniel: Gracias. ?Cúanto es?
-Camarero: Son dieciocho euros con cincuenta.
+Camarero: Son dieciocho euros con cincuenta.  
+
+- Preguntar por un deseo o necessidad  
+?Qué quiere / quieres?  
+?Quiere / Quieres?  
+  
+- Preguntar el importe  
+?Cuanto es?  
+
+- Pedir la comida en un restaurante  
+(Yo quiero) de primero / de postre / de beber...  
+
+- Ejercicios  
+Cliente: Buenos días  
+Camarero: Hola, buenos días. ?Qúe le pongo?**Formal - O que eu te trago? / Informal - ?Qué te pongo?**  
+Cliente: Quería um mosto**bebida de uva**.  
+Camarero: Muy bien. Y algo de comer?  
+Cliente: Sí, ?qué tienen?  
+Camarero: Pues de tapas tenemos pisto, patatas bravas**batatas com pimentas**, queso, boquerones, tortillas de patatas.  
+          Y luego están las raciones, claro.  
+Cliente: Ya, me pone un tapa de tortilla, por favor.  
+Camarero: Enseguida.  
+Cliente: Cúanto es?  
+Camarero: Son dos euros con ochenta.  
+
+
+
+
+
+
 
 
 # Livro Juan - Espanhol em 12 dias
