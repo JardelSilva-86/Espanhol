@@ -962,6 +962,8 @@ Camarero: Son dieciocho euros con cincuenta.
 (Yo quiero) de primero / de postre / de beber...  
 
 - Ejercicios  
+
+- Diálogo 1 
 Cliente: Buenos días  
 Camarero: Hola, buenos días. ?Qúe le pongo? **-Formal - O que eu te trago? / Informal - ?Qué te pongo?-**  
 Cliente: Quería um mosto **-bebida de uva-**.  
@@ -974,6 +976,7 @@ Camarero: Enseguida.
 Cliente: Cúanto es?  
 Camarero: Son dos euros con ochenta.  
 
+- Diálogo 2
 Camarero: Aquí tiene la carta **-el menu-**.  
 Sandra: Gracias, A ver **-vamos ver-**... ?qué te apetece comer, Mónica?
 Mónica: Yo quiero una ensalada mixta de primer plato y bacalao a la bilbaína **-Bacalhau ao estilo de Bilbao-** de segundo.  
@@ -985,10 +988,32 @@ Camarero: Muy bien. Y para beber, ?qué van a tomar?
 Sandra: Nos trae una botella de agua mineral sin das, por favor.  
 Camamrero: Muy bien.    
 
+- Relaciona las columnas para formar el diálogo.  
+1. Camarero, por favor!     (5) Tres.  
+2. Aquí tienen la carta.    (3) Doce euros.  
+3. ?Cúanto es?              (2) Muchas gracias.  
+4. ?Qué quieren comer?      (1) Sí, ?qué quieren tomar?  
+5. ?Cúantas personas son?   (4) Un poco de jámon y un poco de queso.  
 
-
-
-
+- Comidas  
+Queso **-Queijo-**  
+Truchas **-Trutas-**  
+Los Huevos **-Ovos-**  
+Naranjas **-Laranjas-**  
+Pollo **-Frango-**  
+Jamón **-Presunto-**  
+Plátanos/Bananas **-Banana-**  
+Tomates **-Tomates-**  
+Las Fresas **-Morangos-**  
+La Leche **-Leite-**  
+Las Uvas **-Uvas-**  
+Cordero **-Cordeiro-**  
+Lechuga **-Alface-**  
+Espinacas **-Espinafres-**  
+Sardinas **-Sardinhas-**  
+Ternera **-Carne boi novo-**  
+Yogures **-Iogurtes-**  
+Manzanas **-Maças-**  
 
 
 
