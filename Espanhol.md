@@ -733,10 +733,10 @@ Estas casas son grandes y antiguas
 Los cuartos de este museo son modernos
 Esta casa es muy fría
 Este sofá es incómodo
-Esta calle es ruidosa**barulhenta**.
+Esta calle es ruidosa **-barulhenta-**.
 
 - Locuciones preposicionales
-AL LADO DE: indica que algo está muy cerca**perto**
+AL LADO DE: indica que algo está muy cerca **-perto-**
 Mi dormitorio está al lada de la cocina.
 
 DEBAJO DE: indica una posición inferior
@@ -768,7 +768,7 @@ La televesión está en la estantería.
 Todavia no tenemos cortinas en las ventanas.
 Ella no tiene casa, vive con la madre.
 
-CORRIGE la información del Plano**planta da casa**
+CORRIGE la información del Plano **-planta da casa-**
 La lámpara está debajo de la mesa. -> La lámpara está en cima del escritório.
 La estantería está debajo de la cama. -> La estantería está detrás de la puerta.
 La cama está al lado de la mesita de noche. 
@@ -864,14 +864,14 @@ Fernando: No es ningún lío. Es muy fácil. Está en la calle Acapulco, número
 
 - Pedir y dar explicaciones para llegar a un sitio:
 ?Cómo voy al museo?
-Caminando / andando / a pie / en autobús / en metro / en taxi / en coche**carro**
+Caminando / andando / a pie / en autobús / en metro / en taxi / en coche **-carro-**
 
 - Algunos verbos usados para dar explicaciones sobre direccion son:
 Ir: Vas por la Gran Vía
 Seguir: Sigues todo recto por esta avenida.
 Girar: Giras a la derecha en la primera calle.
 Tomar: Tomas la derecha en la primera calle.
-Coger**Pegar**: Coges el 21(autobús).
+Coger **-Pegar-**: Coges el 21(autobús).
 Tomar: Tomas el 21.
 Subir: Subes al 21.
 Bajar: Bajas en la tercera parada.
@@ -898,11 +898,11 @@ A las ocho de la mañana.
 14:00 - Son las dos
 
 - Los días de la semana
-Lunes**Segunda-feira**
-Martes**Terça-feira**
-Miércoles**Quarta-feira**
-Jueves**Quinta-feira**
-Viernes**sexta-feira**
+Lunes **-Segunda-feira-**
+Martes **-Terça-feira-**
+Miércoles **-Quarta-feira-**
+Jueves **-Quinta-feira-**
+Viernes **-sexta-feira-**
 Sábado
 Domingo
 
@@ -940,11 +940,11 @@ Víctor      Gómez       Café            Aquí        Seul
 
 David: !Camarero! ! Por favor!
 Camarero: Sí, un momento. ?Qué van a tomar?
-David: Yo quiero un refresco **refrigerante**. ?Tú qué tomas, Daniel?
+David: Yo quiero un refresco **-refrigerante-**. ?Tú qué tomas, Daniel?
 Daniel: Yo quiero una tônica.
-Camarero: Muy bien. ? Quieren alguna tapa **pão con quiejo-entrada**?
-David: Pues sí, Nos pone unas patatas y una de pisto**molho español**, por favor.
-Daniel: Y una ración **porção** de jámon ibérico **joelho/pata de porco**.
+Camarero: Muy bien. ? Quieren alguna tapa **-pão con quiejo-entrada-**?
+David: Pues sí, Nos pone unas patatas y una de pisto **-molho español-**, por favor.
+Daniel: Y una ración **porção** de jámon ibérico **-joelho/pata de porco-**.
 Camarero: Muy bien
 [..]
 Camarero: Aquí tienen.
@@ -1027,7 +1027,7 @@ Cuchillo **-Faca-**
 Tomamos la sopa con una cuchara.  
 Para beber usamos un vaso.  
 La sopa se toma en un plato.  
-Para comer carne usamos tenedor.  
+Para comer carne usamos un chuchillo e un tenedor.  
 Nos limpiamos la boca con una servilleta.  
 
 
