@@ -1030,6 +1030,31 @@ La sopa se toma en un plato.
 Para comer carne usamos un chuchillo e un tenedor.  
 Nos limpiamos la boca con una servilleta.  
 
+- Verbo Gustar
+
+2. Ordenar
+
+a. La gusta italiana mucho Me comida.  
+**Me gusta mucho la comida italiana.**
+
+b. ? cocinar, ? Nuria gusta te  
+**?Nuria, te gusta cocinar?**
+
+c. ?los gustan os A vosotros mexicanos restaurantes?  
+**? A vosotros os gustan los restaurantes mexicanos?**
+
+d. gusta nuevo nada no le el la A restaurante gente  
+**A la gente no le gusta nada el restaurante nuevo.**
+
+e. leer A mucho Natalia le gusta  
+**A Natalia le gusta mucho leer.**
+
+f. la Nacho me mí no casa A de nada gusta  
+**A mí no me gusta nada la casa de Nacho.**
+
+g. al A mucho estranjero les viajar padres gusta sus  
+**A sus padres les gusta mucho viajar al estranjero.**
+
 
 # Livro Juan - Espanhol em 12 dias
 
