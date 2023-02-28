@@ -157,13 +157,14 @@ Teatro
 ### Conjugaciones
 
 #### Verbos Regulares
-                            Trabajar        Comer       Vivir       Estar       
-Yo                          Trabajo         Como        Vivo        Estoy
-Tú                          Trabajas        Comes       Vives       Estás
-Él / Ella/ Usted            Trabaja         Come        Vive        Está
-Nosotros/as                 Trabajamos      Comemos     Vivemos     Estamos
-Vosotros/as                 Trabajáis       Coméis      Vivís       Estáis
-Ellos / Ellas / Ustedes     Trabajan        Comen       Viven       Están
+Pronome                 | Trabajar   | Comer | Vivir | Estar |      
+----:                   | :----:     | :----:  | :-----: | :-----: |
+Yo                      | Trabajo    | Como    | Vivo       | Estoy
+Tú                      | Trabajas   | Comes   | Vives     | Estás
+Él / Ella / Usted       | Trabaja    | Come    | Vive    | Está
+Nosotros/as             | Trabajamos | Comemos | Vivemos | Estamos
+Vosotros/as             | Trabajáis  | Coméis  | Vivís   |     Estáis
+Ellos / Ellas / Ustedes | Trabajan   |  Comen  | Viven   | Están
 
 - Verbo llamarse
 Me llamo -> Yo
