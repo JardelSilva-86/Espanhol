@@ -938,14 +938,14 @@ Camarero: Muy bien. Y para beber, ?qué van a tomar?
 Sandra: Nos trae una botella de agua mineral sin das, por favor.  
 Camamrero: Muy bien.    
 
-- Relaciona las columnas para formar el diálogo.  
+**Relaciona las columnas para formar el diálogo.**    
 1. Camarero, por favor!     (5) Tres.  
 2. Aquí tienen la carta.    (3) Doce euros.  
 3. ?Cúanto es?              (2) Muchas gracias.  
 4. ?Qué quieren comer?      (1) Sí, ?qué quieren tomar?  
 5. ?Cúantas personas son?   (4) Un poco de jámon y un poco de queso.  
 
-- Comidas  
+**Comidas**  
 Queso - *Queijo* Lácteos y derivados    
 Truchas - *Trutas*  Pescados  
 Los Huevos - *Ovos*    
@@ -965,7 +965,7 @@ Ternera - *Carne boi novo*  Carnes
 Yogures - *Iogurtes*  Postres  
 Manzanas - *Maças*  Frutas y verduras  
 
-- Objetos basico que utilizamos para comer  
+**Objetos basico que utilizamos para comer**  
 Jarra - *Jarra*  
 Vaso - *Copo*  
 Servilleta - *Guardanapo*  
@@ -980,7 +980,7 @@ La sopa se toma en un plato.
 Para comer carne usamos un chuchillo e un tenedor.  
 Nos limpiamos la boca con una servilleta.  
 
-- Verbo Gustar
+**Verbo Gustar**
 
 2. Ordenar
 
