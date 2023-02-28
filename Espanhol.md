@@ -62,6 +62,7 @@ Adiós
 Hasta siempre - **Adeus pra sempre**  
 
 - Paises, capitales y Nacionalidades
+
 México - Ciudad de México - Mexicano/a
 Guatemala - Guatemala - Guatemalteca
 Honduras - Tegucigalpa - Hondureño/a
@@ -179,16 +180,16 @@ Eres
 Es
 Somos
 Sois
-Son
-
+Son  
+&nbsp;
 - Verbo Ir
 Voy
 Vas
 Va
-vamos
+Vamos
 Vais
 Van
-
+&nbsp;
 - Verbo Venir
 Vengo
 Vienes
@@ -196,7 +197,7 @@ Viene
 Venimos
 Venís
 Vienen
-
+&nbsp;
 - Verbo Seguir
 Sigo
 Sigues
@@ -204,7 +205,7 @@ Sigue
 Seguimos
 Seguís
 Siguen
-
+&nbsp;
 - Verbo Cerrar**Fechar/encerrar/trancar**
 Cierro
 Cierras
@@ -212,7 +213,7 @@ Cierra
 Cerramos
 Carráis
 Cierran
-
+&nbsp;
 - Verbo Dar
 Doy
 Das
@@ -220,7 +221,7 @@ Da
 Damos
 Daís
 Dan
-
+&nbsp;
 - !Fíjate!
 Es importante que nos acordemos si tratamos la persona con la cual hablamos por TÚ o USTED, pues esto cambia la conjugación. El dialogo ha presentado la explicación con TÚ:
 Tomas el 21 y te bajas en la cuarta parada, en la calle Carlos Fuentes, Cruzas la Plaza de la República y enfrente de la biblioteca está el museo. 
