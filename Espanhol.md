@@ -175,7 +175,7 @@ Nosotros/as             | Somos | Vamos | Venís  | Seguimos | Cerramos | Damos
 Vosotros/as             | Sois  | Vais  | Vivís  | Seguís   | Cerráis  | Daís
 Ellos / Ellas / Ustedes | Son   | Van   | Vienen | Siguen   | Cierran  | Dan
 
-**!Fíjate! - Atenção/Veja/Olhe/Observação**
+**!Fíjate! - Atenção/Veja/Olhe/Observação**  
 Es importante que nos acordemos si tratamos la persona con la cual hablamos por TÚ o USTED, pues esto cambia la conjugación. El dialogo ha presentado la explicación con TÚ:
 Tomas el 21 y te bajas en la cuarta parada, en la calle Carlos Fuentes, Cruzas la Plaza de la República y enfrente de la biblioteca está el museo. 
 
@@ -183,14 +183,14 @@ Ahora usando USTED:
 Toma el 21 y te baja en la cuarta parada, en la calle Carlos Fuentes, cruza la Plaza de la República y enfrente e la biblioteca está el museo
 
 
-- Ejercicios
+**Ejercicios**
 
 Me llamo Felipe. Soy peruano. Vivo en Lima y trabajo en un restaurante, soy camarero
 Camila es mexicana, vive en Ciudad de México. Es profesora, trabaja en la universidad.
 Me llamo Jardel, soy brasileño. Vivo en Colombo y trabajo en un distribudora.
 Mis padres son hondureños, pero viven en Ciudad de México. Ellos trabajan en una panadería.
 
-- Signos de pontuación
+**Signos de pontuación**
 coma - ","
 punto - "."
 Signos de interrogación - ¿?
@@ -325,7 +325,10 @@ Trabajamos en el centro de Madrid.
 19 - Diecinueve
 20 - Veinte
 
-Obs: Un - **Usa o UN quando a plavra masculina não vem junto na frase - Quantos libros hay en cima de la mesa?Hay un libro/Hay un**
+**Obs:**  
+Un - Usa o UN quando a palavra masculina não vem junto na frase.  
+ej: Quantos libros hay en cima de la mesa? 
+Hay un libro/ Hay un
 
 - Números Ordinales
 1º/ª - Primero/a
@@ -341,7 +344,7 @@ Obs: Un - **Usa o UN quando a plavra masculina não vem junto na frase - Quantos
 
 **!Fíjate!**
 En masculino:
-Quando a palavra primer/tercer for antes do número, ela perde o O.
+Quando a palavra primer/tercer for antes do número, ela perde o "O".
 1º/ª - Primer/o
 Él es el primer piloto del equipo.
 Entre los pilotos del equipo, él es el primeiro.
@@ -359,7 +362,7 @@ Puede decirme su número de teléfono?
 
 Cuál es el número de teléfono del / de la...?
 
-- Contestar**Responder**
+- Contestar - *Responder*
 Mi número de teléfono es el...
 Es el...
 
@@ -435,7 +438,7 @@ Juan - Juan
 - 1 débil con la tilde(acento) e 1 fuerte
 Panadería - Pa/na/de/rí/a
 
-- Ejercicio
+**Ejercicios**
 
 Travalingua 1 
 El cangrejo se quedó perplejo al ver su reflejo en aquel espejo.
@@ -446,11 +449,11 @@ Un chico checo se chocó con un coche sueco.
 Travalingua 3
 El perrito de rita me irrita. Si el perrito de rita te irrita, cambia el perrito por una perrita
 
-Y sus ojos le llenaron de amaneceres
+Y sus ojos le llenaron de amaneceres - *E seus olhos lhe encheram de amanheceres*
 
-### Alquilar un piso **Alugar um apartamento**
+### Alquilar un piso - *Alugar um apartamento*
 
-- Dialogo 1
+**Dialogo 1**
 Agente: Pase, pase. Este piso, como verá, es bastante grande. Aquí está el recibidor, bastante amplio. A la ezquierda están los dormitorios y a la derecha el salón comedor.
 Fernanda: ?Cuántos dormitorios tiene?
 Agente: Tres. Uno grande y los otros dos más pequeño.
@@ -463,12 +466,12 @@ Agente: Bueno, ahora hablamos del precio.
 ?Dónde está la cocina?
 
 - Contestar
-Está al fondo del pasillo**corredor**
+Está al fondo del pasillo - *corredor*
 Está al lado del passillo.
 Está a la derecha de la cocina.
 Está a la ezquieda de la cocina.
 
-- Preguntar por una cantidad**quantidade**
+- Preguntar por una cantidad - *quantidade*
 ?Cuántos?
 ?Cuántas?
 
@@ -477,96 +480,96 @@ Mi casa tiene...
 En mi casa hay...
 
 - Vocabulario
-El Piso**Apartamento / Andar** 
-El Recibidor**Hall de entrada**
-El Dormitorios**quartos**
-El Salón**Sala**
-El Salón comedor**sala de jantar** 
-El Cuarto de baño**banheiro**
-El Pasillo**corredor**
+El Piso - *Apartamento / Andar* 
+El Recibidor - *Hall de entrada*
+El Dormitorios - *quartos*
+El Salón - *Sala*
+El Salón comedor - *sala de jantar*  
+El Cuarto de baño - *banheiro*
+El Pasillo - *corredor*
 El Agente Inmobiliario -
 El Cliente - 
-El Alquiler**Aluguel**
+El Alquiler - *Aluguel*
 El Precio -
-EL Habitación**cômodos/quartos**
-El Balcón**Sacada**  
-La Terraza**Terraço**
-El Despacho**Escritório-cômodo**
-La Escalera**escada** 
-La Planta**Andar** 
-El Patio**quintal**
-El Desván**Sotão**
-El Sótano**Porão**
-La Planta baja**Terreo**
-La Chimenea**Lareira**
-La Parilla**Churrasqueira**
-La Ventana**Janela**
+EL Habitación - *cômodos/quartos*
+El Balcón - *Sacada*  
+La Terraza - *Terraço*
+El Despacho - *Escritório-cômodo*
+La Escalera - *escada* 
+La Planta - *Andar* 
+El Patio - *quintal*
+El Desván - *Sotão*
+El Sótano - *Porão*
+La Planta baja - *Terreo*
+La Chimenea - *Lareira*
+La Parilla - *Churrasqueira*
+La Ventana - *Janela*
 La Puerta
 El Jardín
 El Garaje
 La Pared
 El Techo
-El Suelo**Piso**
+El Suelo - *Piso*
 La Cama
-EL Ropero**Guarda roupa**
+EL Ropero - *Guarda roupa*
 La Mesa de noche
-El Tocador**Penteadeira**
+El Tocador - *Penteadeira*
 La Cómoda
-El Escritorio**Escrivaninha**
-La Sábana**Lençol**
+El Escritorio - *Escrivaninha*
+La Sábana - *Lençol*
 La Colcha
 EL Edredón
 La Manta
 La Almohada
-La Percha**Cabide**
-El Lavabo**piá do banheiro**
+La Percha - *Cabide*
+El Lavabo - *piá do banheiro*
 La Ducha
 La Bañera
-El Inodoro**Vaso sanitário**
+El Inodoro - *Vaso sanitário*
 El Bidé
-El Vertedero**Lixo do banheiro**
+El Vertedero - *Lixo do banheiro*
 El Champú
 El Jabón
 El Papel Higiénico
-La Crema**Creme**
+La Crema - *Creme*
 La Toalla
 El Fogón
 El Horno
 El Horno Microondas
 El Armario
-La Nevera**Geladeira**
-El Fregadero**Piá da cozinha**
-La Lavavajillas**Máquina de lavar louças**
-El Basuero**Lixeiro**
+La Nevera - *Geladeira*
+El Fregadero - *Piá da cozinha*
+La Lavavajillas - *Máquina de lavar louças*
+El Basuero - *Lixeiro*
 La Lavadora
 La Secadora
-El Delantal**Avental**
-EL Cubo**Balde**
+El Delantal - *Avental*
+EL Cubo - *Balde*
 La Escoba
-La Plancha**Ferro de passar**
+La Plancha - *Ferro de passar*
 La Mesa
-La Silla**Cadeira**
-El Cubiertos**Talheres**
-EL Tenedor**Garfo**
-La Cuchara**Colher**
-El Cuchillo**Faca**
-El Mantel**Toalha de mesa**
-La Servilleta**Guardanapo**
-El Vaso**Copo**
-La Taza**Xícara**
-La Copa**Taça**
-La Botella**Garrafa**
+La Silla - *Cadeira*
+El Cubiertos - *Talheres*
+EL Tenedor - *Garfo*
+La Cuchara - *Colher*
+El Cuchillo - *Faca*
+El Mantel - *Toalha de mesa*
+La Servilleta - *Guardanapo*
+El Vaso - *Copo*
+La Taza - *Xícara*
+La Copa - *Taça*
+La Botella - *Garrafa*
 El Sofá
-El Sillón**Poltrona**
-La Alfombra**tapete**
+El Sillón - *Poltrona*
+La Alfombra - *tapete*
 El Cuadro
 El Televisón
-El Marco de foto**Porta retrato**
-El Equipo de música****
-La Estantería**Estante**
+El Marco de foto - *Porta retrato*
+El Equipo de música
+La Estantería - *Estante*
 El Teléfono
-La Mesa de centro****
-La Consola**Vídeo game**
+La Mesa de centro
+La Consola - *Vídeo game*
 El Aire acondicionado
 Lavandería
 Frutería
@@ -594,32 +597,32 @@ Museo
 Peluquería
 Centro Comercial
 Parada de autobús
-Ayuntamiento**Prefeitura da cidade**
+Ayuntamiento - *Prefeitura da cidade*
 Banco
 Embajada
 Hotel
-Comisaría**Delegacia**
+Comisaría - *Delegacia*
 Bar
 Universidad
-Quiosco de prensa**banca de jornais**
+Quiosco de prensa - *banca de jornais*
 Calle
 Avenida
-Cruce**Cruzamento**
+Cruce - *Cruzamento*
 Esquina
-Acera**calçada**
-Paso de peatones**Faixa de pedestre**
+Acera - *calçada*
+Paso de peatones - *Faixa de pedestre*
 Semáforo
 Puente
 Fuente
 Viaducto
-Estanque**Lago**
+Estanque - *Lago*
 Río
 Mar
 Playa
 Plaza
 
 
-- Ejercicio
+**Ejercicio**
 ?Cuántos dormitorios tiene tu casa?
 Mi casa tiene tres dormitorios, dos son grandes y un es pequeño.
 
@@ -630,7 +633,7 @@ Es estar localiza las cosas
 ?Dónde está el cuarto de baño?
 ?Dónde están las habitaciones?
 
-- Correo Electrónico
+**Correo Electrónico**
 Querido Juan:
 Te mando una foto de mi nuevo piso en Barcelona. Ahora vivo en la calle Pisuerga, en un edificio antiguo, muy bonito.
 Tienes tres pisos y nosotros vivimos en el primeiro, debajo de unos vecinos muy ruidosos y encima de una panadería.
@@ -658,37 +661,36 @@ Los vecinos son ruidosos
 La casa es grande
 La calle es tranquila
 
-- Describir una vivienda
+**Describir una vivienda**
 Tengo un piso antiguo           Mi casa es moderna
 Tendo un piso grande            Mi casa es pequeña
 Tengo un piso bonito            Mi casa es fea
 Tengo un piso tranquilo         Mi casa es ruidosa
 Tengo un piso frío              Mi casa es calurosa
 
-- Completa las frases con las palabras
+**Completa las frases con las palabras**
 Juan tiene una casa nueva en la montaña, muy bonita.
 Nosotros vivimos en un piso céntrico, muy ruidoso.
 Mis padres viven en un piso antiguo, de 1880.
 
-- Artículos Determinados
-
+**Artículos Determinados**
 Singular -> Plural
-El -> Los - El profesor -> Los profesores
-La -> Las - La profesora -> Las profesoras
+El > Los - El profesor > Los profesores
+La > Las - La profesora > Las profesoras
 
 El artículo masculino se combina con las preposiciones A y DE:
 A + EL = Al - Voy al mercado. 
 DE + EL = DEL - La cocina está al fondo del pasillo.
 
-- Ejercicios
+**Ejercicios**
 Estas casas son grandes y antiguas
 Los cuartos de este museo son modernos
 Esta casa es muy fría
 Este sofá es incómodo
-Esta calle es ruidosa **-barulhenta-**.
+Esta calle es ruidosa  - *barulhenta*.
 
-- Locuciones preposicionales
-AL LADO DE: indica que algo está muy cerca **-perto-**
+**Locuciones preposicionales**
+AL LADO DE: indica que algo está muy cerca - *perto*
 Mi dormitorio está al lada de la cocina.
 
 DEBAJO DE: indica una posición inferior
@@ -703,16 +705,17 @@ El cuadro está detrás del sofá.
 ENCIMA DE: indica una posición superior
 Las llaves están encima de la mesa.
 
-- Verbo TENER e PONER
+**Verbo TENER e PONER**
+Pronome          | Tener    | Poner
+----:            | :---:    | :---: 
+Yo               | Tengo    | Pongo
+Tú               | Tienes   | Pones
+Él/Ella/Ud.      | Tiene    | Pone
+Nosotros/as      | Tenenmos | Ponemos
+Vosotros/as      | Tenéis   | Ponéis
+Ellos/Ellas/Uds. | Tienen   | Ponen
 
-Yo                  Tengo       Pongo
-Tú                  Tienes      Pones
-Él/Ella/Ud.         Tiene       Pone
-Nosotros/as         Tenenmos    Ponemos
-Vosotros/as         Tenéis      Ponéis
-Ellos/Ellas/Uds.    Tienen      Ponen
-
-- Ejercicios
+**Ejercicios**
 La lámpara está en la mesilla de noche.
 El salón tiene dos ventanas grandes.
 No sé donde pongo la cama.
@@ -720,9 +723,9 @@ La televesión está en la estantería.
 Todavia no tenemos cortinas en las ventanas.
 Ella no tiene casa, vive con la madre.
 
-CORRIGE la información del Plano **-planta da casa-**
-La lámpara está debajo de la mesa. -> La lámpara está en cima del escritório.
-La estantería está debajo de la cama. -> La estantería está detrás de la puerta.
+CORRIGE la información del Plano - *planta da casa*
+La lámpara está debajo de la mesa. > La lámpara está en cima del escritório.
+La estantería está debajo de la cama. > La estantería está detrás de la puerta.
 La cama está al lado de la mesita de noche. 
 La silla está al lado de la cama. La silla está enfrente de la mesa.
 La mesa está delante de la puerta. La mesa está al lado de la puerta.
