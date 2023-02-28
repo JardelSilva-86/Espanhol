@@ -479,147 +479,147 @@ Está a la ezquieda de la cocina.
 Mi casa tiene...
 En mi casa hay...
 
-- Vocabulario
-El Piso - *Apartamento / Andar* 
-El Recibidor - *Hall de entrada*
-El Dormitorios - *quartos*
-El Salón - *Sala*
-El Salón comedor - *sala de jantar*  
-El Cuarto de baño - *banheiro*
-El Pasillo - *corredor*
-El Agente Inmobiliario -
-El Cliente - 
-El Alquiler - *Aluguel*
-El Precio -
-EL Habitación - *cômodos/quartos*
+- Vocabulario  
+El Piso - *Apartamento / Andar*   
+El Recibidor - *Hall de entrada*  
+El Dormitorios - *quartos*  
+El Salón - *Sala*  
+El Salón comedor - *sala de jantar*    
+El Cuarto de baño - *banheiro*  
+El Pasillo - *corredor*  
+El Agente Inmobiliario  
+El Cliente  
+El Alquiler - *Aluguel*  
+El Precio  
+EL Habitación - *cômodos/quartos*  
 El Balcón - *Sacada*  
-La Terraza - *Terraço*
-El Despacho - *Escritório-cômodo*
-La Escalera - *escada* 
-La Planta - *Andar* 
-El Patio - *quintal*
-El Desván - *Sotão*
-El Sótano - *Porão*
-La Planta baja - *Terreo*
-La Chimenea - *Lareira*
-La Parilla - *Churrasqueira*
-La Ventana - *Janela*
-La Puerta
-El Jardín
-El Garaje
-La Pared
-El Techo
-El Suelo - *Piso*
-La Cama
-EL Ropero - *Guarda roupa*
-La Mesa de noche
-El Tocador - *Penteadeira*
-La Cómoda
-El Escritorio - *Escrivaninha*
-La Sábana - *Lençol*
-La Colcha
-EL Edredón
-La Manta
-La Almohada
-La Percha - *Cabide*
-El Lavabo - *piá do banheiro*
-La Ducha
-La Bañera
-El Inodoro - *Vaso sanitário*
-El Bidé
-El Vertedero - *Lixo do banheiro*
-El Champú
-El Jabón
-El Papel Higiénico
-La Crema - *Creme*
-La Toalla
-El Fogón
-El Horno
-El Horno Microondas
-El Armario
-La Nevera - *Geladeira*
-El Fregadero - *Piá da cozinha*
-La Lavavajillas - *Máquina de lavar louças*
-El Basuero - *Lixeiro*
-La Lavadora
-La Secadora
-El Delantal - *Avental*
-EL Cubo - *Balde*
-La Escoba
-La Plancha - *Ferro de passar*
-La Mesa
-La Silla - *Cadeira*
-El Cubiertos - *Talheres*
-EL Tenedor - *Garfo*
-La Cuchara - *Colher*
-El Cuchillo - *Faca*
-El Mantel - *Toalha de mesa*
-La Servilleta - *Guardanapo*
-El Vaso - *Copo*
-La Taza - *Xícara*
-La Copa - *Taça*
-La Botella - *Garrafa*
-El Sofá
-El Sillón - *Poltrona*
-La Alfombra - *tapete*
-El Cuadro
-El Televisón
-El Marco de foto - *Porta retrato*
-El Equipo de música
-La Estantería - *Estante*
-El Teléfono
-La Mesa de centro
-La Consola - *Vídeo game*
-El Aire acondicionado
-Lavandería
-Frutería
-Supermercado
-Restaurante
-Panadería
-Pescadería
-Veterinario
-Gasolinera
-Escuela
-Cafetería
-Carnicería
-Tienda
-Librería
-Estación de Bomberos
-Oficina de correos
-Iglesia
-Teatro
-Circo
-Cine
-Florista
-Hospital
-Farmacia
-Museo
-Peluquería
-Centro Comercial
-Parada de autobús
-Ayuntamiento - *Prefeitura da cidade*
-Banco
-Embajada
-Hotel
-Comisaría - *Delegacia*
-Bar
-Universidad
-Quiosco de prensa - *banca de jornais*
-Calle
-Avenida
-Cruce - *Cruzamento*
-Esquina
-Acera - *calçada*
-Paso de peatones - *Faixa de pedestre*
-Semáforo
-Puente
-Fuente
-Viaducto
-Estanque - *Lago*
-Río
-Mar
-Playa
-Plaza
+La Terraza - *Terraço*  
+El Despacho - *Escritório-cômodo*  
+La Escalera - *escada*   
+La Planta - *Andar*   
+El Patio - *quintal*  
+El Desván - *Sotão*  
+El Sótano - *Porão*  
+La Planta baja - *Terreo*  
+La Chimenea - *Lareira*  
+La Parilla - *Churrasqueira*  
+La Ventana - *Janela*  
+La Puerta  
+El Jardín  
+El Garaje  
+La Pared  
+El Techo  
+El Suelo - *Piso*  
+La Cama  
+EL Ropero - *Guarda roupa*  
+La Mesa de noche  
+El Tocador - *Penteadeira*  
+La Cómoda  
+El Escritorio - *Escrivaninha*  
+La Sábana - *Lençol*  
+La Colcha  
+EL Edredón  
+La Manta  
+La Almohada  
+La Percha - *Cabide*  
+El Lavabo - *piá do banheiro*  
+La Ducha  
+La Bañera  
+El Inodoro - *Vaso sanitário*  
+El Bidé  
+El Vertedero - *Lixo do banheiro*  
+El Champú  
+El Jabón  
+El Papel Higiénico  
+La Crema - *Creme*  
+La Toalla  
+El Fogón  
+El Horno  
+El Horno Microondas  
+El Armario  
+La Nevera - *Geladeira*  
+El Fregadero - *Piá da cozinha*  
+La Lavavajillas - *Máquina de lavar louças*  
+El Basuero - *Lixeiro*  
+La Lavadora  
+La Secadora  
+El Delantal - *Avental*  
+EL Cubo - *Balde*  
+La Escoba  
+La Plancha - *Ferro de passar*  
+La Mesa  
+La Silla - *Cadeira*  
+El Cubiertos - *Talheres*  
+EL Tenedor - *Garfo*  
+La Cuchara - *Colher*  
+El Cuchillo - *Faca*  
+El Mantel - *Toalha de mesa*  
+La Servilleta - *Guardanapo*  
+El Vaso - *Copo*  
+La Taza - *Xícara*  
+La Copa - *Taça*  
+La Botella - *Garrafa*  
+El Sofá  
+El Sillón - *Poltrona*  
+La Alfombra - *tapete*  
+El Cuadro  
+El Televisón  
+El Marco de foto - *Porta retrato*  
+El Equipo de música  
+La Estantería - *Estante*  
+El Teléfono  
+La Mesa de centro  
+La Consola - *Vídeo game*  
+El Aire acondicionado  
+Lavandería  
+Frutería  
+Supermercado  
+Restaurante  
+Panadería  
+Pescadería  
+Veterinario  
+Gasolinera  
+Escuela  
+Cafetería  
+Carnicería  
+Tienda  
+Librería  
+Estación de Bomberos  
+Oficina de correos  
+Iglesia  
+Teatro  
+Circo  
+Cine  
+Florista  
+Hospital  
+Farmacia  
+Museo  
+Peluquería  
+Centro Comercial  
+Parada de autobús  
+Ayuntamiento - *Prefeitura da cidade*  
+Banco  
+Embajada  
+Hotel  
+Comisaría - *Delegacia*  
+Bar  
+Universidad  
+Quiosco de prensa - *banca de jornais*  
+Calle  
+Avenida  
+Cruce - *Cruzamento*  
+Esquina  
+Acera - *calçada*  
+Paso de peatones - *Faixa de pedestre*  
+Semáforo  
+Puente  
+Fuente  
+Viaducto  
+Estanque - *Lago*  
+Río  
+Mar  
+Playa  
+Plaza  
 
 
 **Ejercicio**
