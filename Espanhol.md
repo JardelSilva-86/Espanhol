@@ -166,7 +166,7 @@ Vosotros/as             | Trabajáis  | Coméis  | Vivís   | Estáis  | Os llam
 Ellos / Ellas / Ustedes | Trabajan   |  Comen  | Viven   | Están   | Se llaman
 
 #### Verbos Irregulares
-Pronome                 | Ser   | Ir    | Venir  | Seguir   | Cerrar **-Fechar/Encerrar/Trancar-** | Dar     
+Pronome                 | Ser   | Ir    | Venir  | Seguir   | Cerrar *Fechar/Encerrar/Trancar* | Dar     
 ----:                   | :---: | :---: | :----: | :-----:  | :-----:  | :-----:
 Yo                      | Soy   | Voy   | Vengo  | Sigo     | Cierro   | Doy
 Tú                      | Eres  | Vas   | Vienes | Sigues   | Cierras  | Das 
@@ -752,8 +752,7 @@ Está detrás de la puerta de entrada.
 
 ### Por la ciudad
 
-- Preguntar por la existencia de un lugar o establecimento:
-
+**Preguntar por la existencia de un lugar o establecimento:**
 Perdone, ?hay...
 ...un metro cerca?
 ...un mercado cerca?
@@ -761,20 +760,28 @@ Perdone, ?hay...
 ...cajeros automáticos en esta calle?
 ...muchos cines en este barrio?
 
-- Localizar establecimentos:
-
+**Localizar establecimentos:**
 Sí, el metro está en la Plaza de Lima.
 Sí, la cafetería está aqui al lado.
 No, los cajeros automáticos están un poco más lejos.
 
-- Ejercicios
+**Hay / Está(n)**
+Hay(Haber) se utiliza para indicar la existencia de algo o alguien.
+Se usa con UN, UNO, UNA, UNOS, UNAS y NÚMEROS
+Ej.: En el centro hay(unas) tiendas muy bonitas.
 
+Está(n) se emplea para situar en el espacio algo o alguien.
+Se usa con ARTÍCULOS DETERMINADOS y ADJETIVOS POSESIVOS
+Ej.: ?Sabes dónde está mi móvil?
+Creo que está en la mesa del comedor
+
+**Ejercicios**
 1 - Completa con los artículos adecuados:
 En la calle Preciados hay unas grandes tiendas.
 En la Gran Vía está el cine Avenida.
 Me parece que cerca del mercado está la estación de metro.
 En mi barrio hay una tienda de ropa muy famosa. 
-
+&nbsp;
 2 - Completa:
 ?Dónde está el banco más cercano?
 Está um poco lejos, a unos 2 km
@@ -787,19 +794,7 @@ Hay una aquí al lado, en la calle Diego Rivera.
 
 ?El cine Avenida está en la calle Joan Miró?
 No, no, está en la calle Goya.
-
-- Hay / Está(n)
-Hay(Haber) se utiliza para indicar la existencia de algo o alguien.
-Se usa con UN, UNO, UNA, UNOS, UNAS y NÚMEROS
-Ej.: En el centro hay(unas) tiendas muy bonitas.
-
-Está(n) se emplea para situar en el espacio algo o alguien.
-Se usa con ARTÍCULOS DETERMINADOS y ADJETIVOS POSESIVOS
-Ej.: ?Sabes dónde está mi móvil?
-Creo que está en la mesa del comedor
-
-Ejercicios
-
+&nbsp;
 3 - Relaciona
 En la calle Preciados hay una farmacia de guardia.
 Cerca de aquí hay un banco.
@@ -810,135 +805,135 @@ El dormitorio está al fondo del pasillo.
 En la cocina hay un armario para los platos.
 Enfrente de la cafeteria están las tiendas de discos.
 
-- Dialogo
-Fernando: ?Vienes esta tarde al Museo de Arte Moderno? Hay una exposición de una amiga mía.
-Pilas: Sí, de acuerdo, pero ?cómo voy, en metro o en autobús?
-Fernando: Mejor en autobús, Tomas el 21 y te bajas en la cuarta parada, en la calle Carlos Fuentes, cruzas la Plaza de la República y enfrente de la biblioteca está el museo.
-Pilar: !Qué lío! ?Qué calle es?
-Fernando: No es ningún lío. Es muy fácil. Está en la calle Acapulco, número veinticinco.
+**Dialogo**
+Fernando: ?Vienes esta tarde al Museo de Arte Moderno? Hay una exposición de una amiga mía.  
+Pilas: Sí, de acuerdo, pero ?cómo voy, en metro o en autobús?  
+Fernando: Mejor en autobús, Tomas el 21 y te bajas en la cuarta parada, en la calle Carlos Fuentes, cruzas la Plaza de la República y enfrente de la biblioteca está el museo.  
+Pilar: !Qué lío! ?Qué calle es?  
+Fernando: No es ningún lío. Es muy fácil. Está en la calle Acapulco, número veinticinco.  
 
-- Pedir y dar explicaciones para llegar a un sitio:
-?Cómo voy al museo?
-Caminando / andando / a pie / en autobús / en metro / en taxi / en coche **-carro-**
+**Pedir y dar explicaciones para llegar a un sitio:**  
+?Cómo voy al museo?    
+Caminando / andando / a pie / en autobús / en metro / en taxi / en coche - *carro*  
 
-- Algunos verbos usados para dar explicaciones sobre direccion son:
-Ir: Vas por la Gran Vía
-Seguir: Sigues todo recto por esta avenida.
-Girar: Giras a la derecha en la primera calle.
-Tomar: Tomas la derecha en la primera calle.
-Coger **-Pegar-**: Coges el 21(autobús).
-Tomar: Tomas el 21.
-Subir: Subes al 21.
-Bajar: Bajas en la tercera parada.
-Cruzar: Cruzas la calle. 
+**Algunos verbos usados para dar explicaciones sobre direccion son:**   
+Ir: Vas por la Gran Vía  
+Seguir: Sigues todo recto por esta avenida.  
+Girar: Giras a la derecha en la primera calle.  
+Tomar: Tomas la derecha en la primera calle.  
+Coger - *Pegar*: Coges el 21(autobús).  
+Tomar: Tomas el 21.  
+Subir: Subes al 21.  
+Bajar: Bajas en la tercera parada.  
+Cruzar: Cruzas la calle.   
 
-- La hora
-Pregunta y decir la hora
-?Qué hora es?
-Son las dos de la tarde
-Es la una
+**La hora**  
+Pregunta y decir la hora  
+?Qué hora es?  
+Son las dos de la tarde  
+Es la una  
 
-Preguntar el horario
-?A qué hora empieza la clase?
-A las ocho de la mañana.
+**Preguntar el horario**  
+?A qué hora empieza la clase?  
+A las ocho de la mañana.  
 
-11:00 - Son las once en punto.
-11:05 - Son las once y cinco
-11:15 - Son las once y cuarto
-11:30 - Son las once y media
-11:35 - Son las doce menos veintecinco
-11:45 - Son las doce menos cuarto
-11:55 - Son las doce menos cinco
-13:00 - Es la una
-14:00 - Son las dos
+11:00 - Son las once en punto.  
+11:05 - Son las once y cinco  
+11:15 - Son las once y cuarto  
+11:30 - Son las once y media  
+11:35 - Son las doce menos veintecinco  
+11:45 - Son las doce menos cuarto  
+11:55 - Son las doce menos cinco  
+13:00 - Es la una  
+14:00 - Son las dos  
 
-- Los días de la semana
-Lunes **-Segunda-feira-**
-Martes **-Terça-feira-**
-Miércoles **-Quarta-feira-**
-Jueves **-Quinta-feira-**
-Viernes **-sexta-feira-**
-Sábado
-Domingo
+**Los días de la semana**
+Lunes - *Segunda-feira*  
+Martes - *Terça-feira*  
+Miércoles - *Quarta-feira*  
+Jueves - *Quinta-feira*  
+Viernes - *sexta-feira*  
+Sábado  
+Domingo  
 
-Todos los días da semana son masculinos, siempre se utiliza EL y LOS
-Ej. 
-El lunes voy a trabajar.
-Los sábados juego al fútbol.
+Todos los días da semana son masculinos, siempre se utiliza EL y LOS  
+Ej.   
+El lunes voy a trabajar.  
+Los sábados juego al fútbol.  
 
-- La tilde
-Dónde poner la tilde
-1 - última sílaba tónica en palabras acabadas en VOCAL, -N, -S
-Ej: Está, estás, corazón.
+**La tilde**  
+Dónde poner la tilde  
+1 - última sílaba tónica en palabras acabadas en VOCAL, -N, -S  
+Ej: Está, estás, corazón.  
 
-2 - penúltima sílaba tónica en palabras acabadas en consonante, excepto -N, -S
-Ej: lápiz, ángel, fútbol
+2 - penúltima sílaba tónica en palabras acabadas en consonante, excepto -N, -S  
+Ej: lápiz, ángel, fútbol  
 
-3 - Todas las palabras con la antepenúltima sílaba tónica.
-Ej: última, sílaba, tónica.
+3 - Todas las palabras con la antepenúltima sílaba tónica.  
+Ej: última, sílaba, tónica.  
 
-- Clasifica las palabras en la categoria correspondiente.
-Con tilde       Penúltima sílaba tónica     Última sílaba tónica
-inglés          despacho                    ordenador
-fútbol          calle                       ciudad
-detrás          lejos                        
-                delante                     
-                Avenida
-                Taxi
-                Playa  
+**Clasifica las palabras en la categoria correspondiente.**  
+Con tilde | Penúltima sílaba tónica | Última sílaba tónica
+----:     | :----:                  | :----    
+inglés    | despacho                | ordenador
+fútbol    | calle                   | ciudad
+detrás    | lejos                   |               
+-         | delante                 |                 
+-         | Avenida                 |
+-         | Taxi                    |
+-         | Playa                   |
 
-- Escucha las palabras y escribe la tilde en las palabras que la necessitem
+**Escucha las palabras y escribe la tilde en las palabras que la necessitem**
 Lápiz       Ángel       Habitación      Están       Bogotá
 Víctor      Gómez       Café            Aquí        Seul
 
 ### En el restaurant
 
-David: !Camarero! ! Por favor!
-Camarero: Sí, un momento. ?Qué van a tomar?
-David: Yo quiero un refresco **-refrigerante-**. ?Tú qué tomas, Daniel?
-Daniel: Yo quiero una tônica.
-Camarero: Muy bien. ? Quieren alguna tapa **-pão con quiejo-entrada-**?
-David: Pues sí, Nos pone unas patatas y una de pisto **-molho español-**, por favor.
-Daniel: Y una ración **porção** de jámon ibérico **-joelho/pata de porco-**.
-Camarero: Muy bien
-[..]
-Camarero: Aquí tienen.
-Daniel: Gracias. ?Cúanto es?
-Camarero: Son dieciocho euros con cincuenta.  
+David: !Camarero! ! Por favor!  
+Camarero: Sí, un momento. ?Qué van a tomar?  
+David: Yo quiero un refresco - *refrigerante*. ?Tú qué tomas, Daniel?  
+Daniel: Yo quiero una tônica.  
+Camarero: Muy bien. ? Quieren alguna tapa - *pão con quiejo-entrada*?  
+David: Pues sí, Nos pone unas patatas y una de pisto - *molho español*, por favor.  
+Daniel: Y una ración - *porção* de jámon ibérico - *joelho/pata de porco*.  
+Camarero: Muy bien  
+[..]  
+Camarero: Aquí tienen.  
+Daniel: Gracias. ?Cúanto es?  
+Camarero: Son dieciocho euros con cincuenta.    
 
-- Preguntar por un deseo o necessidad  
-?Qué quiere / quieres?  
-?Quiere / Quieres?  
+**Preguntar por un deseo o necessidad**  
+?Qué quiere / quieres?   
+?Quiere / Quieres?    
   
-- Preguntar el importe  
+**Preguntar el importe**   
 ?Cuanto es?  
 
-- Pedir la comida en un restaurante  
+**Pedir la comida en un restaurante**  
 (Yo quiero) de primero / de postre / de beber...  
 
-- Ejercicios  
-
-- Diálogo 1 
+**Ejercicios**  
+Diálogo 1 
 Cliente: Buenos días  
-Camarero: Hola, buenos días. ?Qúe le pongo? **-Formal - O que eu te trago? / Informal - ?Qué te pongo?-**  
-Cliente: Quería um mosto **-bebida de uva-**.  
+Camarero: Hola, buenos días. ?Qúe le pongo? - *Formal - O que eu te trago? / Informal - ?Qué te pongo?*  
+Cliente: Quería um mosto - *bebida de uva*.  
 Camarero: Muy bien. Y algo de comer?  
 Cliente: Sí, ?qué tienen?  
-Camarero: Pues de tapas tenemos pisto, patatas bravas **-batatas com pimentas-**, queso, boquerones, tortillas de patatas.  
+Camarero: Pues de tapas tenemos pisto, patatas bravas - *batatas com pimentas*, queso, boquerones, tortillas de patatas.  
           Y luego están las raciones, claro.  
 Cliente: Ya, me pone un tapa de tortilla, por favor.  
 Camarero: Enseguida.  
 Cliente: Cúanto es?  
 Camarero: Son dos euros con ochenta.  
 
-- Diálogo 2
-Camarero: Aquí tiene la carta **-el menu-**.  
-Sandra: Gracias, A ver **-vamos ver-**... ?qué te apetece comer, Mónica?
-Mónica: Yo quiero una ensalada mixta de primer plato y bacalao a la bilbaína **-Bacalhau ao estilo de Bilbao-** de segundo.  
+Diálogo 2  
+Camarero: Aquí tiene la carta - *el menu*.  
+Sandra: Gracias, A ver - *vamos ver*... ?qué te apetece comer, Mónica?
+Mónica: Yo quiero una ensalada mixta de primer plato y bacalao a la bilbaína - *Bacalhau ao estilo de Bilbao* de segundo.  
         ?Y tú, qué vas a comer?  
-Sandra: No sé, no tengo mucha hambre... un gazpacho **-sopa fria-** y unos calamares**-Lula-**.  
+Sandra: No sé, no tengo mucha hambre... un gazpacho -*sopa fria* y unos calamares - *Lula*.  
 Mónica: ?No quieres picar nada antes?  
-Carmen: Bueno, un poco de queso para picar las dos **-Para as duas beliscar-**.  
+Carmen: Bueno, un poco de queso para picar las dos - *Para as duas beliscar*.  
 Camarero: Muy bien. Y para beber, ?qué van a tomar?  
 Sandra: Nos trae una botella de agua mineral sin das, por favor.  
 Camamrero: Muy bien.    
@@ -951,33 +946,33 @@ Camamrero: Muy bien.
 5. ?Cúantas personas son?   (4) Un poco de jámon y un poco de queso.  
 
 - Comidas  
-Queso **-Queijo-** Lácteos y derivados    
-Truchas **-Trutas-**  Pescados  
-Los Huevos **-Ovos-**    
-Naranjas **-Laranjas-**  Frutas y verduras  
-Pollo **-Frango-**  Carnes  
-Jamón **-Presunto-**  Carnes  
-Plátanos/Bananas **-Banana-** Frutas y verduras  
-Tomates **-Tomates-**  Frutas y verduras  
-Las Fresas **-Morangos-**  Frutas y verduras  
-La Leche **-Leite-**  Lácteos y derivados  
-Las Uvas **-Uvas-**  Frutas y verduras  
-Cordero **-Cordeiro-**  Carnes  
-Lechuga **-Alface-**  Frutas y verduras
-Espinacas **-Espinafres-**  Frutas y verduras
-Sardinas **-Sardinhas-**  Pescados  
-Ternera **-Carne boi novo-**  Carnes  
-Yogures **-Iogurtes-**  Postres  
-Manzanas **-Maças-**  Frutas y verduras  
+Queso - *Queijo* Lácteos y derivados    
+Truchas - *Trutas*  Pescados  
+Los Huevos - *Ovos*    
+Naranjas - *Laranjas*  Frutas y verduras  
+Pollo - *Frango*  Carnes  
+Jamón - *Presunto*  Carnes  
+Plátanos/Bananas - *Banana* Frutas y verduras  
+Tomates - *Tomates*  Frutas y verduras  
+Las Fresas - *Morangos*  Frutas y verduras  
+La Leche - *Leite*  Lácteos y derivados  
+Las Uvas - *Uvas*  Frutas y verduras  
+Cordero - *Cordeiro*  Carnes  
+Lechuga - *Alface*  Frutas y verduras
+Espinacas - *Espinafres*  Frutas y verduras
+Sardinas - *Sardinhas*  Pescados  
+Ternera - *Carne boi novo*  Carnes  
+Yogures - *Iogurtes*  Postres  
+Manzanas - *Maças*  Frutas y verduras  
 
 - Objetos basico que utilizamos para comer  
-Jarra **-Jarra-**  
-Vaso **-Copo-**  
-Servilleta **-Guardanapo-**  
-Cuchara **-Colher-**  
-Tenedor **-Garfo-**  
-Plato **-Prato-**  
-Cuchillo **-Faca-**  
+Jarra - *Jarra*  
+Vaso - *Copo*  
+Servilleta - *Guardanapo*  
+Cuchara - *Colher*  
+Tenedor - *Garfo*  
+Plato - *Prato*  
+Cuchillo - *Faca*  
 
 Tomamos la sopa con una cuchara.  
 Para beber usamos un vaso.  
