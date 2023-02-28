@@ -462,24 +462,24 @@ Agente: Allí, al fondo del pasillo, al lado del dormitorio grande. La cocina es
 Fernanda: Ya veo. Oiga, una pregunta...?Cuánto es el alquiler?
 Agente: Bueno, ahora hablamos del precio. 
 
-- Localizar objetos
+**Localizar objetos**
 ?Dónde está la cocina?
 
-- Contestar
+**Contestar**
 Está al fondo del pasillo - *corredor*
 Está al lado del passillo.
 Está a la derecha de la cocina.
 Está a la ezquieda de la cocina.
 
-- Preguntar por una cantidad - *quantidade*
+**Preguntar por una cantidad - *quantidade***
 ?Cuántos?
 ?Cuántas?
 
-- Contestar
+**Contestar**
 Mi casa tiene...
 En mi casa hay...
 
-- Vocabulario  
+**Vocabulario**  
 El Piso - *Apartamento / Andar*   
 El Recibidor - *Hall de entrada*  
 El Dormitorios - *quartos*  
