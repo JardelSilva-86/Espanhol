@@ -633,8 +633,8 @@ Es estar localiza las cosas
 ?Dónde está el cuarto de baño?
 ?Dónde están las habitaciones?
 
-**Correo Electrónico**
-Querido Juan:
+**Correo Electrónico**  
+Querido Juan:  
 Te mando una foto de mi nuevo piso en Barcelona. Ahora vivo en la calle Pisuerga, en un edificio antiguo, muy bonito.
 Tienes tres pisos y nosotros vivimos en el primeiro, debajo de unos vecinos muy ruidosos y encima de una panadería.
 Mi casa es bastante grande y cómoda. Tiene tres dormitorios, un salón, la cocina y un cuarto de baño.
@@ -643,8 +643,8 @@ Aunque también tiene un ventaja: el olor a pan por la mañana.
 
 Hasta pronto,
 Pablo
-
-Ejercicios
+&nbsp;
+**Ejercicios**
 ?En qué calle vive Pablo?
 Pablo vive en la calle Pisuerga
 
