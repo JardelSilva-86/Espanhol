@@ -4,7 +4,7 @@
 
 ### Hola!
 
-- Preguntar el nombre e decir el suyo  
+**Preguntar el nombre e decir el suyo** 
 Cuál es tu nombre?  
 Cómo te llamas?(Tú)  - Informal  
 Cómo se llama Usted?  - Formal  
@@ -15,21 +15,21 @@ Yo soy Jardel.
 Me llamo Silvia.   
 Mi nombre es Jardel.   
 
-- Origen / nacionalidad  
+**Origen / nacionalidad** 
 De dónde eres?   
 Soy...   
 Soy de...  
 
-- El lugar de residencia  
+**El lugar de residencia**
 Dónde vives?  
 Vivo en...  
 
-- Presentar a amigos/as.   
+**Presentar a amigos/as**   
 Te presento a...  
 Este/a es...  
 Estos/as son..  
 
-- Saludos  
+**Saludos** 
 Hola!   
 Buenas!  
 Buenos días! / Buen día!   
@@ -43,7 +43,7 @@ Cómo te va?
 Cómo estáis?(Vosotros) - Informal  
 Cómo están?(Ustedes) - Formal  
 
-Fatal - **péssimo / horrível**  
+Fatal *- péssimo / horrível*
 Mal  
 Bien  
 Muy bien   
@@ -56,13 +56,12 @@ Encantado/a
 
 Hasta luego  
 Hasta la vista  
-Hasta pronto - **algo mais distante/incerto**  
+Hasta pronto - *algo mais distante/incerto*  
 Nos vemos  
 Adiós  
-Hasta siempre - **Adeus pra sempre**  
+Hasta siempre - *Adeus pra sempre*  
 
-- Paises, capitales y Nacionalidades
-
+**Paises, capitales y Nacionalidades**
 México - Ciudad de México - Mexicano/a
 Guatemala - Guatemala - Guatemalteca
 Honduras - Tegucigalpa - Hondureño/a
@@ -157,73 +156,26 @@ Teatro
 ### Conjugaciones
 
 #### Verbos Regulares
-Pronome                 | Trabajar   | Comer | Vivir | Estar |      
-----:                   | :----:     | :----:  | :-----: | :-----: |
-Yo                      | Trabajo    | Como    | Vivo       | Estoy
-Tú                      | Trabajas   | Comes   | Vives     | Estás
-Él / Ella / Usted       | Trabaja    | Come    | Vive    | Está
-Nosotros/as             | Trabajamos | Comemos | Vivemos | Estamos
-Vosotros/as             | Trabajáis  | Coméis  | Vivís   |     Estáis
-Ellos / Ellas / Ustedes | Trabajan   |  Comen  | Viven   | Están
-
-- Verbo llamarse
-Me llamo -> Yo
-Te llamas -> Tú
-Se llama -> Él/Ella/Ud.
-Nos llamamos -> Nosostros/as
-Os llamáis -> Vosotros/as
-Se llaman -> Ellos/Ellas/Uds.
+Pronome                 | Trabajar   | Comer   | Vivir   | Estar   | Llamarse      
+----:                   | :----:     | :----:  | :-----: | :-----: | :-----:
+Yo                      | Trabajo    | Como    | Vivo    | Estoy   | Me llamo
+Tú                      | Trabajas   | Comes   | Vives   | Estás   | Te llamas
+Él / Ella / Usted       | Trabaja    | Come    | Vive    | Está    | Se llama
+Nosotros/as             | Trabajamos | Comemos | Vivemos | Estamos | Nos llamamos
+Vosotros/as             | Trabajáis  | Coméis  | Vivís   | Estáis  | Os llamáis
+Ellos / Ellas / Ustedes | Trabajan   |  Comen  | Viven   | Están   | Se llaman
 
 #### Verbos Irregulares
-- Verbo Ser
-Soy
-Eres
-Es
-Somos
-Sois
-Son  
-&nbsp;
-- Verbo Ir
-Voy
-Vas
-Va
-Vamos
-Vais
-Van
-&nbsp;
-- Verbo Venir
-Vengo
-Vienes
-Viene
-Venimos
-Venís
-Vienen
-&nbsp;
-- Verbo Seguir
-Sigo
-Sigues
-Sigue
-Seguimos
-Seguís
-Siguen
-&nbsp;
-- Verbo Cerrar**Fechar/encerrar/trancar**
-Cierro
-Cierras
-Cierra
-Cerramos
-Carráis
-Cierran
-&nbsp;
-- Verbo Dar
-Doy
-Das
-Da
-Damos
-Daís
-Dan
-&nbsp;
-- !Fíjate!
+Pronome                 | Ser   | Ir    | Venir  | Seguir   | Cerrar **-Fechar/Encerrar/Trancar-** | Dar     
+----:                   | :---: | :---: | :----: | :-----:  | :-----:  | :-----:
+Yo                      | Soy   | Voy   | Vengo  | Sigo     | Cierro   | Doy
+Tú                      | Eres  | Vas   | Vienes | Sigues   | Cierras  | Das 
+Él / Ella / Usted       | Es    | Va    | Viene  | Sigue    | Cierra   | Da
+Nosotros/as             | Somos | Vamos | Venís  | Seguimos | Cerramos | Damos
+Vosotros/as             | Sois  | Vais  | Vivís  | Seguís   | Cerráis  | Daís
+Ellos / Ellas / Ustedes | Son   | Van   | Vienen | Siguen   | Cierran  | Dan
+
+**!Fíjate! - Atenção/Veja/Olhe/Observação**
 Es importante que nos acordemos si tratamos la persona con la cual hablamos por TÚ o USTED, pues esto cambia la conjugación. El dialogo ha presentado la explicación con TÚ:
 Tomas el 21 y te bajas en la cuarta parada, en la calle Carlos Fuentes, Cruzas la Plaza de la República y enfrente de la biblioteca está el museo. 
 
@@ -254,11 +206,9 @@ Mis amigos y yo VAMOS al parque mañana.
 !Qué pelo tan bonito!
 Claro, VENGO de la peluqueria.
 
-
-
 ### Presentaciones
 
-- Dialogo 1 - Presentar a alguien
+**Dialogo 1 - Presentar a alguien**
 Fernando: Hola. Te presento a unos amigos: este es David. Es médico. David y yo somos compañeros de trabajo. Vivimos em Madrid y trabajamos en un hospital.
 David: ¡Hola!
 Fenando: Esta es Nuria. Es de Buenos Aires. Es empresaria. Tiene una empresa de servicios informáticos.
@@ -268,7 +218,7 @@ Miguel y Alejandro: Encantado
 Daniel: Estas son Sandra y Mariana. Son brasileñas y compañeras de clase. Estudian en la Escuela Oficial de Madrid.
 Sandra y Mariana: !Buenas!
 
-Dialogo 2 - Vosotros - Informal
+**Dialogo 2 - Vosotros - Informal**
 Álvaro: Hola. ?Vosotros sois los nuevos compañeros de viaje, ?no?
 Fernando: Sí, sí. !Hola! ?Qué tal?
 Álvaro: Sois argentinos, ?verdad?
@@ -284,7 +234,7 @@ Victoria: !Qué bien!
 Álvaro: Bueno, pues bienvenidos a México.
 Fernando y Victoria: Gracias
 
-Dialogo 3 - Formal
+**Dialogo 3 - Formal**
 Isabel: Buenos días, me llamo Isabel Gómez y soy la secretaria de la directora.
 Alejandro: Buenos días.
 Isabel: Señora García, esta es la señora Navarro y este es el señor Hernández.
@@ -293,7 +243,7 @@ Alejandro: Encantado.
 Directora: Son ustedes españoles, ?no?
 Victoria: Sí, trabajamos en un banco en Madrid. Somos economistas.
 
-- Ejercicios
+**Ejercicios**
 Esta es Carla. Es abogada.
 Estos son Ana y Carlos. Son amigos
 Estas son Carla y María. Son amigas mías.
@@ -304,7 +254,7 @@ Este es Alejandro. Es mi jefe.
 - Cuando la palabra en singular termina en vocal átona, se añade un S:
 Amigo -> Amigos
 Alumna -> alumnas
-
+&nbsp;
 - Cuando termina en consonante, vocal acentuada o en Y, se añade ES:
 Profesor -> Profesores
 Marroquí -> Marroquíes
@@ -321,13 +271,13 @@ Marroquí -> Marroquíes
 Diseñador -> Diseñadores
 Inglés -> Ingleses
 Alemán -> Alemanes 
-
+&nbsp;
 - Los Adjetivos posesivos
 Singular(Plural)
 Yo -> Mi(Mis) - Es mi libro / Son mis libros
 Tú -> Tu(Tus) - Tienes tu libro?
 Él/Ella/Ud. -> Su(Sus) - Tiene su libro - Este es el libro de ella(de él)
-
+&nbsp;
 - Ejercicio
 Pietro es italiano. Su país es Italia
 Soy nigeriano. Mi país es Nigeria.
@@ -337,14 +287,14 @@ David, ?cúal es su número de teléfono?
 
 ### Preposiciones DE y EN
 
-- DE
+**DE**
 Expresa la procedencia - Anne es de Suecia.
-
-- EN 
+&nbsp;
+**EN**
 Indica el lugar en el que está. Expresa la permanencia en un lugar
 Vive en la calle Arribau, en el centro de la ciudad.
-
-- Ejercicios
+&nbsp;
+**Ejercicios**
 Soy la secretaria de la directora.
 Por las mañanas trabajo en un banco.
 Juan trabaja en una editorial.
@@ -389,7 +339,7 @@ Obs: Un - **Usa o UN quando a plavra masculina não vem junto na frase - Quantos
 9º/ª - Noveno/a
 10º/ª - Décimo/a
 
-!Fíjate!**Atenção/Veja/Olhe/Observação**
+**!Fíjate!**
 En masculino:
 Quando a palavra primer/tercer for antes do número, ela perde o O.
 1º/ª - Primer/o
