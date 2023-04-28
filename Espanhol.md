@@ -414,7 +414,7 @@ U - [u] - Como no Português - uva
 V - [uve] - Pronincia-se como se fosse a letra "B", /b/. vale
 W - [doble uve] - Só palavras inglesas ou estrangeiras. - water / Wagner
 X - [equis] - O nome da letra é /ekis/ mas pronuncia-se /eks/ como em inglês - examen / México 
-Y - [I griega / Ye  - No final da palavra som de /i/. -    ley
+Y - [I griega] / Ye  - No final da palavra som de /i/. -    ley
                - No ínicio ou no meio da palavras som de /eje/. - yerno
                Também é usado como a conjunção 'e' para unir duas palavras - y  
 Z - [zeta] - som de /seta/, não existe o som de "z" do português. Pronuncia-se como /ss/. Zapato
